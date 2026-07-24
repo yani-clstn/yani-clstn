@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Althea</h1>
-  <h3>Aspiring Software Engineer & Data Analyst</h3>
+  <h3>Aspiring Software Engineer / Data Analyst</h3>
   
   <p>
     <i>BS Computer Science Student passionate about software engineering, data analytics, and continuous learning.</i>
