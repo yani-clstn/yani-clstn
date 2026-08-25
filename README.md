@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Hi, I'm Althea!</h1>
-  <h3>Aspiring Software Engineer / Data Analyst</h3>
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Always+learning+about+tech" alt="Typing SVG" />
+</p>
   
   <p>
     <i>BS Computer Science Student passionate about software engineering, data analytics, and continuous learning.</i>
