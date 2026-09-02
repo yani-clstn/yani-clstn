@@ -22,10 +22,10 @@
   <h3>˚.🎀༘⋆ 🩰 My Stats</h3>
 
   <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yani-clstn&theme=omni&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yani-clstn&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+    <img src="https://streak-stats.demolab.com/?user=yani-clstn&theme=nord&hide_border=false&background=FFF0F5&stroke=FF69B4&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" alt="GitHub Streak" />
+    <br/><br/>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yani-clstn&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=FFF0F5&title_color=FF69B4&text_color=D87093" alt="Top Languages" />
+  </p>
 
   <h3>💻 ⋆˚꩜｡ 🎀 Tech Stacks & Data Analytics Stack</h3>
 
