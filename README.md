@@ -1,10 +1,6 @@
 <div align="center">
 
-  <h1>🩰 🎀 Hi, I'm Althea! 🎀 🩰</h1>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Always+learning+about+tech;✨+Embracing+code+in+pastel+pink+✨" alt="Typing SVG" />
-  </p>
+  ![Banner](yani-banner.gif)
 
   <h3>🧸ྀི 🩰 About Me</h3>
   <p>
