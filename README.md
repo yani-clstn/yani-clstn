@@ -7,7 +7,7 @@
     <i>BS Computer Science Student passionate about software engineering, data analytics, continuous learning, and adding a touch of pink to everything. 🎀✨</i>
   </p>
 
-  <h3>˙ ✩°˖🫐 🎀 Socials</h3>
+  <h3>˙ ✩°˖🎀 Socials</h3>
   <p>
     <a href="https://instagram.com/yai.clstn" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
     <a href="mailto:altheanicolekabigting@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
