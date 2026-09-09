@@ -13,6 +13,13 @@
     <a href="mailto:altheanicolekabigting@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
   </p>
 
+   <h3>🌱 ✩°˖ 🎀 Currently Learning</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Linux%20Ubuntu-FF69B4?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Currently Learning Linux Ubuntu"/>
+    <img src="https://img.shields.io/badge/Claude-FFB6C1?style=for-the-badge&logo=claude&logoColor=black" alt="Claude"/>
+    <img src="https://img.shields.io/badge/GitHub%20Copilot-FFC0CB?style=for-the-badge&logo=githubcopilot&logoColor=black" alt="Currently Learning GitHub Copilot"/>
+  </p>
+
   <hr />
 
   <h3>˚.🎀༘⋆ 🩰 My Stats</h3>
